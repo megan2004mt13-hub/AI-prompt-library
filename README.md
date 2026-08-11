@@ -33,6 +33,3 @@ Meridian Property Partners is a residential property management agency managing 
 
 See [`ITERATION-LOG.md`](ITERATION-LOG.md) for full before/after documentation of how four of the prompts were refined across versions — plus the commit history of this repository itself, which shows the prompts being added and edited over time.
 
-## Author
-
-[Your name] — prepared for [module/assessment name], [university/course name].
